@@ -29,3 +29,8 @@ E:\MvcImageAI\MvcImageAI\obj\Debug\net7.0\refint\MvcImageAI.dll
 E:\MvcImageAI\MvcImageAI\obj\Debug\net7.0\MvcImageAI.pdb
 E:\MvcImageAI\MvcImageAI\obj\Debug\net7.0\MvcImageAI.genruntimeconfig.cache
 E:\MvcImageAI\MvcImageAI\obj\Debug\net7.0\ref\MvcImageAI.dll
+E:\MvcImageAI\MvcImageAI\bin\Debug\net7.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+E:\MvcImageAI\MvcImageAI\bin\Debug\net7.0\Microsoft.Rest.ClientRuntime.dll
+E:\MvcImageAI\MvcImageAI\bin\Debug\net7.0\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\MvcImageAI\MvcImageAI\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\MvcImageAI\MvcImageAI\obj\Debug\net7.0\MvcImageAI.csproj.CopyComplete

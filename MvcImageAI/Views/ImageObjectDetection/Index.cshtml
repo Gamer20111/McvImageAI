@@ -1,8 +1,15 @@
 ﻿@{
-    ViewData["Title"] = "Hello";
+    ViewData["Title"] = "Index";
 }
 
-<form action="/action_page.php">
-    <input type="file" id="myFile" name="filename"><br />
-    <input type="submit">
+<form action="/ImageObjectDetection/Detect" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <input class="form-control" type="file" id="myFile" name="inputFile">
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
 </form>
+<div>
+    @ViewBag.Message
+</div>
